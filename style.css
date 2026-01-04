@@ -7,7 +7,7 @@ body {
     height: 200px;
     margin: 20px;
     padding: 20px;
-    color: black;
+    color: white;
 }
 
 .section-one {
@@ -34,3 +34,4 @@ body {
 }
 .section-three p {
     color: red;
+}
