@@ -35,3 +35,11 @@ body {
 .section-three p {
     color: red;
 }
+
+.section-four {
+    background-image: url(img/geometric-dark-background-with-gradient-shapes-composition-good-for-posters-design-illustration-vector.jpg);
+    background-size: cover;
+    background-position: center;
+    border: double;
+    border-radius: 100px 200px 100px;
+}
