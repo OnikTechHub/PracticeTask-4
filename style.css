@@ -7,7 +7,21 @@ body {
     height: 200px;
     margin: 20px;
     padding: 20px;
-    background-color: antiquewhite;
-    border: double ;
     color: black;
+}
+
+.section-one {
+    background-color: teal;
+    border-radius: 20px 50px 20px;
+}
+
+.section-two {
+    background-image: url("https://picsum.photos/400/200");
+    border: double ;
+    background-position: center;
+    border-radius: 100px;
+}
+
+.section-two p {
+    color: red;
 }
