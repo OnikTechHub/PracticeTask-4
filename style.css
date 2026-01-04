@@ -16,14 +16,14 @@ body {
 }
 
 .section-two {
-    background-image: url("https://picsum.photos/400/200");
+    background-image: url("img/red-and-blue-pillars-wallpaper-abstract-background-free-image.webp");
     border: double ;
     background-position: center;
     border-radius: 100px;
 }
 
 .section-two p {
-    color: red;
+    color: wheat;
 }
 .section-three {
     background-image: url(img/images.jpg);
